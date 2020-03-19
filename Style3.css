@@ -230,31 +230,31 @@
                     border: 1px solid red;
                     border-radius: 0px;
                     position: absolute;
-                    top: 5.0%;
+                    top: 7.0%;
                     left: 17%;
                     z-index: 6;
                     text-align: center;
-                    position: fixed;
+                    
                 }
                 #knopka1 {
                     border: 1px solid red;
                     border-radius: 0px;
                     position: absolute;
-                    top: 5.0%;
-                    left: 35%;
+                    top: 7.0%;
+                    left: 39%;
                     z-index: 6;
                     text-align: center;
-                    position: fixed;
+                    
                 }
                 #knopka2 {
                     border: 1px solid red;
                     border-radius: 0px;
                     position: absolute;
-                    top: 5%;
-                    left: 48%;
+                    top: %;
+                    left: 52%;
                     z-index: 6;
                     text-align: center;
-                    position: fixed;
+                    
                 }
                 #as {
                     display: none;
